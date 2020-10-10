@@ -4,11 +4,20 @@
   "description": "Fake json Rest API",
   "main": "index.js",
   "scripts": {
-    "json:server":"json-server --watch db.json"
+    "json:server": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrychang1998/SampleJSONPlaceholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/henrychang1998/SampleJSONPlaceholder/issues"
+  },
+  "homepage": "https://github.com/henrychang1998/SampleJSONPlaceholder#readme"
 }
